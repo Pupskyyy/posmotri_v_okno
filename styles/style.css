@@ -134,11 +134,7 @@ ol {
 .content__list::-webkit-scrollbar-thumb {
   border: none;
   border-radius: 2px;
-  background-color: transparent;
-}
-
-.content__list:hover::-webkit-scrollbar-thumb {
-  background: #545050;
+  background: #fff;
 }
 
 .content__card-link {
